@@ -8,5 +8,6 @@ class Command {
    }
  
  }
+ // added comment
  
  module.exports = Command;
